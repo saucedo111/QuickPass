@@ -20,14 +20,6 @@ User Stories:
 - As a user, I want to be able to delete passwords/entire master accounts
 - As a user, I want to be able to save/load passwords from a JSON file
 
-# Instructions for Grader
-
-- You can generate the first required event related to adding Xs to a Y by clicking add or generate on the main frame
-- You can generate the second required event related to adding Xs to a Y by any of the other buttons on main frame
-- You can locate my visual component by icon of main frame or side image on adding password
-- You can save the state of my application by clicking file(main frame) and selecting save from drop down
-- You can reload the state of my application by clicking file(main frame) and selecting load from drop down
-
 # Phase 4: Task 2
 
 Represents a user who opens the app to add 2 new passwords onto 

@@ -2,12 +2,12 @@
     "password": "0",
     "passwords": [
         {
-            "password": "STITCHING",
-            "title": "needle"
-        },
-        {
             "password": "METALWORK",
             "title": "saw"
+        },
+        {
+            "password": "STITCHING",
+            "title": "needle"
         }
     ],
     "id": "My work room"
